@@ -59,7 +59,9 @@ Par défaut,
 
 ### Conclusion
 
-Personnellement, j'ai trouvé ce projet intéressant car j'ai appris de nouvelles notions tels que les sockets et les threads. De plus, je trouve le résultat final du projet assez aboutit malgré un commencement difficile avec peu de connaissances en réseau. J'ai déjà l'impression de m'être bien améliorer après une semaine sur ce projet, j'ai appris pas mal de choses qui me seront utiles pendant longtemps et je trouve ça super. 
+Personnellement, j'ai trouvé ce projet intéressant car j'ai appris de nouvelles notions tels que les sockets et les threads. De plus, je trouve le résultat final du projet assez aboutit malgré un commencement difficile avec peu de connaissances en réseau. J'ai déjà l'impression de m'être bien améliorer après une semaine sur ce projet.
 
 
 Auteur : *César VENZAC*
+
+Tuteurs : *Nicolas VILMAIN et Vincent KHERBACHE*
